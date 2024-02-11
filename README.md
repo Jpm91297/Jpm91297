@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan McKinney
 - 👀 I’m interested in the latest and greatest tech. I also like to ski, game, and hang out with my dog.
-- 🌱 I’m currently learning full-stack app development!
+- 🌱 Employed as a full-stack engineer
   
 
 <!---
